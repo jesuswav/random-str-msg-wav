@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-wav",
+  "version": "1.0.0",
+  "description": "Randon String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jesus García <garciajesse2003@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
